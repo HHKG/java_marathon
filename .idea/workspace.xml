@@ -20,18 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1ecbb82-3bda-4157-af5e-c63d722b086a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RedPackage/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RedPackage/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RedPackage/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RedPackage/RedPackage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RedPackage/out/production/RedPackage/cn/itcast/day01/MainRedPackrt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RedPackage/out/production/RedPackage/cn/itcast/day01/Manager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RedPackage/out/production/RedPackage/cn/itcast/day01/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RedPackage/out/production/RedPackage/cn/itcast/day01/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RedPackage/src/cn/itcast/day01/MainRedPackrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RedPackage/src/cn/itcast/day01/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RedPackage/src/cn/itcast/day01/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RedPackage/src/cn/itcast/day01/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,9 +81,10 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="416" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.832@0.23.1440.832" timestamp="1603513501458" />
-    <state x="328" y="222" key="new project wizard" timestamp="1604988509062">
-      <screen x="0" y="0" width="1920" height="1200" />
+    <state x="176" y="98" key="new project wizard" timestamp="1605362467187">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="328" y="222" key="new project wizard/0.0.1920.1200/1920.0.1920.1080@0.0.1920.1200" timestamp="1604988509062" />
+    <state x="176" y="98" key="new project wizard/0.23.1440.830@0.23.1440.830" timestamp="1605362467187" />
   </component>
 </project>
